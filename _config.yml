@@ -2,7 +2,7 @@
 title: VCE Algorithmics
 #email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  An attempt to create a repository of VCE Algorithmics knowledge like Mark Kelyy's vceit.com site.
+  An attempt to create a repository of VCE Algorithmics knowledge like Mark Kelly's vceit.com site.
   May or may not die, depending on how motivated I can be to continue it.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://vcealgorithmics.github.io" # the base hostname & protocol for your site
