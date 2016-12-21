@@ -22,10 +22,10 @@ The key things to know for both are why, what and how.
 It is important to be familiar with all of the properties and types of graph, including 
 
 
-> – cyclicity and connectedness as properties of graphs
-> – trees and decision trees
-> – directed graphs and directed acyclic graphs
-> – weighted graphs, weighted path lengths and topological distance
+> - cyclicity and connectedness as properties of graphs
+> - trees and decision trees
+> - directed graphs and directed acyclic graphs
+> - weighted graphs, weighted path lengths and topological distance
 
 
 Not only do you have to know what they are, you also need to know how to use them, as per the key skills : 
