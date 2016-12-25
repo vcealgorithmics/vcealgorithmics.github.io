@@ -1,5 +1,6 @@
-
-# About VCE Algorithmics
+---
+title: About VCE Algorithmics
+---
 
 VCE Algorithmics is a new [HESS](/other/credit) Unit 3/4 subject, developed by Monash University and Melbourne University. It aims to give students an introduction to the study of algorithms, allowing them to understand the foundations of computer science and software engineering.
 

@@ -1,4 +1,6 @@
-
+---
+title: Exams
+---
 As Algorithmcis is a new subject, there is not a large backlog of previous exams to practice with, and as the study design is still rapidly changing, parts of older exams may not be current.
 
 Single Items either have answers included or do not have answers.

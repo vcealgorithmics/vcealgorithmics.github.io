@@ -1,3 +1,7 @@
+---
+title: Programming with Python
+---
+
 # This page still under construction
 
 [Python](https://www.python.org/) is a beginner friendly text-based programming language. In order to use Python in Algorithmics, students will have to use [NetworkX](https://networkx.github.io/), a python library for manipulating graphs, as well as [matplotlib](http://matplotlib.org/) or some other NetworkX compatible rendering library.

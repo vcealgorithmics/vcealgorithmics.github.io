@@ -1,5 +1,8 @@
-# This page still under construction
+---
+title: VCAA Algorithmics Study Design
+---
 
+ # This page still under construction
 The 2017 study design is located [here](http://www.vcaa.vic.edu.au/Documents/vce/algorithmics/AlgorithmicsSD-2017.pdf)
 
 

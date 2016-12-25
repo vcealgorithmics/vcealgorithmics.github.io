@@ -1,3 +1,6 @@
+---
+title: University Credit
+---
 
 Both Monash University and Melbourne University have structured credit policies for VCE Algorithmics.
 
