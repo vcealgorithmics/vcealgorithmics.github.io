@@ -1,8 +1,17 @@
-- title: "About"
-  href: "/about/"
 
-- title: "Study Design"
-  href: "/studydesign/"
+- title: "Other"
+  href: "/other/"
+    - subtitle: "About"
+      subhref: "/other/about"
+
+    - subtitle: "University Credit"
+      subhref: "/other/credit" 
+
+    - subtitle: "Exams"
+      subhref: "/other/exams"
+
+    - subtitle: "Study Design"
+      subhref: "/other/studydesign"
 
 - title: "Programming"
   href: "/programming"
@@ -15,7 +24,7 @@
       subhref: "/programming/adt"
 
 - title: "Unit 3"
-  href: "/blog/"
+  href: "/unit3/"
   subcategories:
     - subtitle: "What is an Algorithm"
       subhref: "/unit3/intro"
@@ -31,9 +40,8 @@
       subhref: "/unit3/recurison"
 
 
-
 - title: "Unit 4"
-  href: "/cv/"
+  href: "/unit4/"
   subcategories:
     - subtitle: "Big O"
       subhref: "/unit4/bigo"
