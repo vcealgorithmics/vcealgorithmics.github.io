@@ -1,5 +1,3 @@
-# This page still under construction
-
 
 As Algorithmcis is a new subject, there is not a large backlog of previous exams to practice with, and as the study design is still rapidly changing, parts of older exams may not be current.
 
