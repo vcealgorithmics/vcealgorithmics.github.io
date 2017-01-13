@@ -1,5 +1,5 @@
 ---
-title: Abstract Data Types
+title: Other pages
 ---
 
 # This page still under construction

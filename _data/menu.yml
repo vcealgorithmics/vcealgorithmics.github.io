@@ -1,6 +1,7 @@
 
 - title: "Other"
   href: "/other/"
+  subcategories:
     - subtitle: "About"
       subhref: "/other/about"
 

@@ -1,3 +1,7 @@
+---
+title: VCE Algorithmics Programming requirements
+---
+
 # This page still under construction
 
 There are three languages VCAA have approved for [2017](http://www.vcaa.vic.edu.au/Pages/vce/studies/algorithmics/algorithmics-approved-lists.aspx). These are :

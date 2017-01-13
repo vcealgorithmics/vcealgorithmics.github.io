@@ -1,6 +1,13 @@
+---
+title: Programming with Python
+---
+
 # This page still under construction
 
-Python is a beginner friendly text-based programming language. By using NetworkX and matplotlib, students have access to powerful tools for manipulating graphs.
+[Python](https://www.python.org/) is a beginner friendly text-based programming language. In order to use Python in Algorithmics, students will have to use [NetworkX](https://networkx.github.io/), a python library for manipulating graphs, as well as [matplotlib](http://matplotlib.org/) or some other NetworkX compatible rendering library.
+
+
+An installation guide to networkX can be found in it's doccumentation [here](https://networkx.github.io/documentation/development/install.html). The reccomended installation method is via pip.
 
 A [valuable resource from Monash University](https://www.alexandriarepository.org/module/appendix-from-edgy-to-python/) (Authors : Jason Nguyen, Steven Bird) is a doccument about transitioning from Edgy to Python. While those experienced with python may find most of the content unneccesary, the appendix does cover getting your environment set up, and provides a useful helper script used to render (show) the graphs you create with networkX. In the future, this site may publish it's own tutorials on graphing with python, but for the time being, this resource is extremely helpful.
 
