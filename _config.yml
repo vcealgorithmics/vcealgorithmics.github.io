@@ -1,6 +1,6 @@
 # Site settings
 title: VCE Algorithmics
-#email: your-email@domain.com
+email: vcealgo@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   An attempt to create a repository of VCE Algorithmics knowledge like Mark Kelly's vceit.com site.
   May or may not die, depending on how motivated I can be to continue it.
@@ -13,11 +13,15 @@ github_username:  vcealgorithmics
 markdown: kramdown
 
 # Other options
-permalink: blog/:year/:month/:title
-job.title: "Assistant Professor"
+#permalink: blog/:year/:month/:title
+#job.title: "Assistant Professor"
 excerpt_separator: "<!--more-->"
 
 # SEO stuff
 # google_author: ""
 # google_site_verification: ""
 # bing_webmastertools_id: ""
+
+gems:
+  - jekyll-seo-tag
+  - jekyll-sitemap
