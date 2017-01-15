@@ -1,5 +1,6 @@
 # This page still under construction
 
+
 "An algorithm is a self-contained step-by-step set of operations to be performed. Algorithms perform calculation, data processing, and/or automated reasoning tasks." - wikipedia
 
 Essentially, an algorithm is a set of steps or instructions to do something.
@@ -22,5 +23,4 @@ A common activity when teaching about algorithmics and software development is t
 
 This process is so effective, even without talking to another human at deconstructing a process into it's fundamental parts that many development teams use a technique called "rubber duck debugging", by explaining their code line by line to a duck.
 
-The reason we use algoritms is because they are a repeatable list of basic instructions that turn a complex task into it's smaller components. In fact, if we get specific enough, we could create a list of instructions for a computer!
-
+The reason we use algorithms is because they are a repeatable list of basic instructions that turn a complex task into it's smaller components. In fact, if we get specific enough, we could create a list of instructions for a computer!
