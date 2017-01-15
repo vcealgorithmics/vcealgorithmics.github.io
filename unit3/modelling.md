@@ -13,3 +13,5 @@ The reason we use graphs is because they are able to simplify many systems into 
 
 
 ## State diagrams
+
+State diagrams are a way to use graphs to represent

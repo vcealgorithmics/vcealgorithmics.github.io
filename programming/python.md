@@ -48,7 +48,7 @@ def show(G, node_attribute = "id", edge_attribute = "label"):
 
 
 
-Students who are familiar with text-based languages may wish to check out [Edgy](/programming/edgy), a text-based language that is also VCAA approved.
+Students who are beginners to programming may wish to check out [Edgy](/programming/edgy), a block-based language that is also VCAA approved.
 
 This is one of the three languages allowed for [2017](http://www.vcaa.vic.edu.au/Pages/vce/studies/algorithmics/algorithmics-approved-lists.aspx)
 
