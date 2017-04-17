@@ -1,0 +1,15 @@
+Only works for a directed acyclic graph in a linear ordering of verticies, such that for every directed edge uv, vertex u comes beofre vertex v in the ordering. Topological sorting fo ra graph is not possible if the graph is not directed and acyclic
+
+A Topological sort essentially takes this DAG and converts it into a list of tasks that must be completed in order so that we may visit all nodes in a graph.
+
+For example:
+
+
+Graph             | [3,4,5,1,2]
+
+ 
+ 
+Divide and conquer solution:
+
+We start by picking any node with no incoming edges, then remove all nodes that are outgoing and add them to our list.
+Then we repeat
